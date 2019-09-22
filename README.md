@@ -6,4 +6,4 @@ Just like how the sommelier would recommend wine for you. This project aims to c
 
 The data source: it is a public dataset, scraped from WineEnthusiast by zackthoutt: https://www.kaggle.com/zynicide/wine-reviews. 
 
-My blog post: https://towardsdatascience.com/text-analytics-wine-classification-and-recommendation-by-tasting-notes-6657733fd60d
+My blog post on the project: https://towardsdatascience.com/text-analytics-wine-classification-and-recommendation-by-tasting-notes-6657733fd60d
