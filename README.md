@@ -5,3 +5,5 @@ Wine selection is complicated and personal. The one you love doesn’t necessari
 Just like how the sommelier would recommend wine for you. This project aims to classify wine variety and identify similar wine based on taste by analyzing the descriptors written by tasters. 
 
 The data source: it is a public dataset, scraped from WineEnthusiast by zackthoutt: https://www.kaggle.com/zynicide/wine-reviews. 
+
+My blog post: https://towardsdatascience.com/text-analytics-wine-classification-and-recommendation-by-tasting-notes-6657733fd60d
